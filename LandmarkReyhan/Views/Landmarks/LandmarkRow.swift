@@ -10,7 +10,16 @@ struct LandmarkRow: View {
             landmark.image
                 .resizable()
                 .frame(width: 50, height: 50)
-            Text(landmark.name)
+                .cornerRadius(5)
+            VStack(alignment: .leading) {
+                Text(landmark.name)
+                    .bold()
+                #if !os(watchOS)
+                Text(landmark.park)
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
+                #endif
+            }
 
             Spacer()
 
@@ -19,6 +28,7 @@ struct LandmarkRow: View {
                     .foregroundStyle(.yellow)
             }
         }
+        .padding(.vertical, 4)
     }
 }
 

@@ -1,12 +1,9 @@
 
-
 import Foundation
 
 struct Hike: Codable, Hashable, Identifiable {
     var id: Int
     var name: String
-    
-//    ytess
     var distance: Double
     var difficulty: Int
     var observations: [Observation]
