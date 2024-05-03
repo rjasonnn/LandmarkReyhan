@@ -1,0 +1,16 @@
+{
+  "source": "/Users/mac/Downloads/LandmarkReyhan-main/MacLandmarks/LandmarkSettings.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Landmark Settings"
+      },
+      {
+        "comment": "",
+        "key": "Map Zoom:"
+      }
+    ]
+  },
+  "version": 1
+}

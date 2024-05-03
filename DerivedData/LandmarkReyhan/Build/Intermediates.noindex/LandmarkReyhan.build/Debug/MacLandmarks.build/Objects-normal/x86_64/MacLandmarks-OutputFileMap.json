@@ -1,0 +1,158 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MacLandmarks-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MacLandmarks-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MacLandmarks-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MacLandmarks-master.swiftdeps"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/LandmarkReyhanApp.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkReyhanApp.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkReyhanApp.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkReyhanApp.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkReyhanApp.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkReyhanApp.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkReyhanApp.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkReyhanApp.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkReyhanApp~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Model/Hike.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Hike.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Hike.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Hike.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Hike.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Hike.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Hike.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Hike.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Hike~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Model/Landmark.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Landmark.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Landmark.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Landmark.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Landmark.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Landmark.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Landmark.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Landmark.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Landmark~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Model/ModelData.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ModelData.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ModelData.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ModelData.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ModelData.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ModelData.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ModelData.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ModelData.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ModelData~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Model/Profile.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Profile.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Profile.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Profile.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Profile.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Profile.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Profile.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Profile.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/Profile~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Helpers/CircleImage.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/CircleImage.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/CircleImage.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/CircleImage.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/CircleImage.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/CircleImage.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/CircleImage.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/CircleImage.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/CircleImage~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Helpers/FavoriteButton.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/FavoriteButton.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/FavoriteButton.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/FavoriteButton.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/FavoriteButton.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/FavoriteButton.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/FavoriteButton.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/FavoriteButton.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/FavoriteButton~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Helpers/MapView.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MapView.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MapView.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MapView.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MapView.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MapView.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MapView.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MapView.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/MapView~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Landmarks/LandmarkList.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkList.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkList.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkList.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkList.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkList.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkList.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkList.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkList~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Landmarks/LandmarkRow.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkRow.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkRow.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkRow.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkRow.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkRow.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkRow.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkRow.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkRow~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/MacLandmarks/ContentView.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/MacLandmarks/LandmarkCommands.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkCommands.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkCommands.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkCommands.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkCommands.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkCommands.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkCommands.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkCommands.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkCommands~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/MacLandmarks/LandmarkDetail.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkDetail.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkDetail.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkDetail.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkDetail.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkDetail.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkDetail.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkDetail.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkDetail~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/LandmarkReyhan-main/MacLandmarks/LandmarkSettings.swift" : {
+    "const-values" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkSettings.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkSettings.d",
+    "diagnostics" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkSettings.dia",
+    "index-unit-output-path" : "/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkSettings.o",
+    "llvm-bc" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkSettings.bc",
+    "object" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkSettings.o",
+    "swift-dependencies" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkSettings.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug/MacLandmarks.build/Objects-normal/x86_64/LandmarkSettings~partial.swiftmodule"
+  }
+}

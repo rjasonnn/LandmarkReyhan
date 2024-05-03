@@ -1,0 +1,16 @@
+{
+  "source": "/Users/mac/Downloads/LandmarkReyhan-main/2WatchLandmarks Watch App/LandmarkDetail.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Landmarks"
+      },
+      {
+        "comment": "",
+        "key": "Favorite"
+      }
+    ]
+  },
+  "version": 1
+}

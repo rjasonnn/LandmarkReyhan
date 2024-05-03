@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "abfca7bce05aba13fa247d133371816b3f82ebf16341453b0b64e7492dd9a5c8"
+    }
+  ],
+  "containerPath" : "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.4",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Products",
+      "pchPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

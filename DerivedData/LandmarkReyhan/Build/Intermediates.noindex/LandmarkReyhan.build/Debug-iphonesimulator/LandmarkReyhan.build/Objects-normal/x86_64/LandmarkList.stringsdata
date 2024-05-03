@@ -1,0 +1,24 @@
+{
+  "source": "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Landmarks/LandmarkList.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Category"
+      },
+      {
+        "comment": "",
+        "key": "Favorites only"
+      },
+      {
+        "comment": "",
+        "key": "Filter"
+      },
+      {
+        "comment": "",
+        "key": "Select a Landmark"
+      }
+    ]
+  },
+  "version": 1
+}

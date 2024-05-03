@@ -1,0 +1,16 @@
+{
+  "source": "/Users/mac/Downloads/LandmarkReyhan-main/MacLandmarks/LandmarkDetail.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Open in Maps"
+      },
+      {
+        "comment": "",
+        "key": "About %@"
+      }
+    ]
+  },
+  "version": 1
+}

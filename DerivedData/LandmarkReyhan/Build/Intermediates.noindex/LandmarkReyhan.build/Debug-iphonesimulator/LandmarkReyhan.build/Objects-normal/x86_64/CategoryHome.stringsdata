@@ -1,0 +1,20 @@
+{
+  "source": "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Categories/CategoryHome.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Featured"
+      },
+      {
+        "comment": "",
+        "key": "User Profile"
+      },
+      {
+        "comment": "",
+        "key": "Select a Landmark"
+      }
+    ]
+  },
+  "version": 1
+}

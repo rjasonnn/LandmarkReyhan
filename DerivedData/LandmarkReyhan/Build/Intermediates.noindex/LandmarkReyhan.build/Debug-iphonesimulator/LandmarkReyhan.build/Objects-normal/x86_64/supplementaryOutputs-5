@@ -1,0 +1,18 @@
+"/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Badges/HexagonParameters.swift":
+  dependencies: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/HexagonParameters.d"
+  diagnostics: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/HexagonParameters.dia"
+  swift-dependencies: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/HexagonParameters.swiftdeps"
+  const-values: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/HexagonParameters.swiftconstvalues"
+  object: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/HexagonParameters.o"
+"/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Landmarks/LandmarkRow.swift":
+  object: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/LandmarkRow.o"
+  diagnostics: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/LandmarkRow.dia"
+  swift-dependencies: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/LandmarkRow.swiftdeps"
+  dependencies: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/LandmarkRow.d"
+  const-values: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/LandmarkRow.swiftconstvalues"
+"/Users/mac/Downloads/LandmarkReyhan-main/MacLandmarks/LandmarkCommands.swift":
+  dependencies: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/LandmarkCommands.d"
+  diagnostics: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/LandmarkCommands.dia"
+  swift-dependencies: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/LandmarkCommands.swiftdeps"
+  const-values: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/LandmarkCommands.swiftconstvalues"
+  object: "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/LandmarkCommands.o"

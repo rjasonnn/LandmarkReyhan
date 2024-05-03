@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target '2WatchLandmarks Watch App' in project 'LandmarkReyhan' (no dependencies)
+Target '2WatchLandmarks Watch App' in project 'LandmarkReyhan' (no dependencies)
