@@ -1,0 +1,24 @@
+{
+  "source": "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Profiles/ProfileEditor.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Seasonal Photo"
+      },
+      {
+        "comment": "",
+        "key": "Username"
+      },
+      {
+        "comment": "",
+        "key": "Enable Notifications"
+      },
+      {
+        "comment": "",
+        "key": "Goal Date"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,69 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "abfca7bce05aba13fa247d133371816b3f82ebf16341453b0b64e7492dd9a5c8"
+    },
+    {
+      "guid" : "abfca7bce05aba13fa247d133371816becf9ee51539dc58fce1e08350320b0cc"
+    }
+  ],
+  "containerPath" : "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "watchsimulator",
+      "sdk" : "watchsimulator10.4",
+      "sdkVariant" : "watchsimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Products",
+      "derivedDataPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "Watch7,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "10.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "Watch7,4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "DSTROOT" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/Previews/watchsimulator/2WatchLandmarks Watch App/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/Previews/watchsimulator/2WatchLandmarks Watch App/Intermediates.noindex",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "SYMROOT" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/Previews/watchsimulator/2WatchLandmarks Watch App/Products",
+          "TARGET_DEVICE_IDENTIFIER" : "4D86F423-80DB-48DC-A4F2-46EA5E2AA782",
+          "TARGET_DEVICE_MODEL" : "Watch7,4",
+          "TARGET_DEVICE_OS_VERSION" : "10.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "watchsimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
