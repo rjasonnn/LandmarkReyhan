@@ -8,6 +8,7 @@ struct CategoryHome: View {
 
     var body: some View {
         NavigationSplitView {
+            //untuk list kebawah
             List {
                 PageView(pages: modelData.features.map { FeatureCard(landmark: $0) })
                     .listRowInsets(EdgeInsets())

@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>2666329B-924F-4B38-BF2C-08C249409078</key>
+		<key>0FD6825A-7A9C-4144-AFAC-EB3994A0A039</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2666329B-924F-4B38-BF2C-08C249409078.xcactivitylog</string>
+			<string>0FD6825A-7A9C-4144-AFAC-EB3994A0A039.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -34,19 +34,19 @@
 			<key>schemeIdentifier-containerName</key>
 			<string>LandmarkReyhan project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>2WatchLandmarks Watch App</string>
+			<string>LandmarkReyhan</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Build for Previews 2WatchLandmarks Watch App</string>
+			<string>Build for Previews LandmarkReyhan</string>
 			<key>timeStartedRecording</key>
-			<real>736399580.25596702</real>
+			<real>736400285.15111303</real>
 			<key>timeStoppedRecording</key>
-			<real>736399603.78780794</real>
+			<real>736400287.58229804</real>
 			<key>title</key>
-			<string>Build for Previews 2WatchLandmarks Watch App</string>
+			<string>Build for Previews LandmarkReyhan</string>
 			<key>uniqueIdentifier</key>
-			<string>2666329B-924F-4B38-BF2C-08C249409078</string>
+			<string>0FD6825A-7A9C-4144-AFAC-EB3994A0A039</string>
 		</dict>
 	</dict>
 </dict>

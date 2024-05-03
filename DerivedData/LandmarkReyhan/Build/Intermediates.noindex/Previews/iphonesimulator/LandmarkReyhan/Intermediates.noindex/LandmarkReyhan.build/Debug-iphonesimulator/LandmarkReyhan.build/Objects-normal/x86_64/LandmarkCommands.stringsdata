@@ -1,0 +1,16 @@
+{
+  "source": "/Users/mac/Downloads/LandmarkReyhan-main/MacLandmarks/LandmarkCommands.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Landmark"
+      },
+      {
+        "comment": "",
+        "key": "%@ as Favorite"
+      }
+    ]
+  },
+  "version": 1
+}

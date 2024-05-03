@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "abfca7bce05aba13fa247d133371816becf9ee51539dc58fce1e08350320b0cc"
+    }
+  ],
+  "containerPath" : "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Products",
+      "derivedDataPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "DSTROOT" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/Previews/iphonesimulator/LandmarkReyhan/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/Previews/iphonesimulator/LandmarkReyhan/Intermediates.noindex",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "SYMROOT" : "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/Previews/iphonesimulator/LandmarkReyhan/Products",
+          "TARGET_DEVICE_IDENTIFIER" : "D677B6E2-0D5B-46EE-B9BB-2DEB52C783A4",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

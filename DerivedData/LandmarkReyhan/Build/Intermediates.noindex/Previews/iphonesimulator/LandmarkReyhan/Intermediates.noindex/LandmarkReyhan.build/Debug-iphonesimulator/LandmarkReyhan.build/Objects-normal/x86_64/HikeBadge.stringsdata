@@ -1,0 +1,12 @@
+{
+  "source": "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Badges/HikeBadge.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Badge for %@."
+      }
+    ]
+  },
+  "version": 1
+}

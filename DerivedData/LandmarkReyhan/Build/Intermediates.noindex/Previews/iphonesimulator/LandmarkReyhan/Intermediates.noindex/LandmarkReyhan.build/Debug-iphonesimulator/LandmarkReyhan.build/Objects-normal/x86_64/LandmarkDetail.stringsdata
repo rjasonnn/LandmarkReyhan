@@ -1,0 +1,12 @@
+{
+  "source": "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/Landmarks/LandmarkDetail.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "About %@"
+      }
+    ]
+  },
+  "version": 1
+}

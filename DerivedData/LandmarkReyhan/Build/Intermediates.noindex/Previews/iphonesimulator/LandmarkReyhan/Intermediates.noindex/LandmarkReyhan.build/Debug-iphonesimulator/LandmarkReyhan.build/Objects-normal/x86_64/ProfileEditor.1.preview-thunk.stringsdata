@@ -1,0 +1,24 @@
+{
+  "source": "/Users/mac/Downloads/LandmarkReyhan-main/DerivedData/LandmarkReyhan/Build/Intermediates.noindex/Previews/iphonesimulator/LandmarkReyhan/Intermediates.noindex/LandmarkReyhan.build/Debug-iphonesimulator/LandmarkReyhan.build/Objects-normal/x86_64/ProfileEditor.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Seasonal Photo"
+      },
+      {
+        "comment": "",
+        "key": "Username"
+      },
+      {
+        "comment": "",
+        "key": "Enable Notifications"
+      },
+      {
+        "comment": "",
+        "key": "Goal Date"
+      }
+    ]
+  },
+  "version": 1
+}
