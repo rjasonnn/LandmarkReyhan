@@ -11,14 +11,15 @@ import SwiftUI
 extension PageView {
     @_dynamicReplacement(for: body) private var __preview__body: some View {
         #sourceLocation(file: "/Users/mac/Downloads/LandmarkReyhan-main/LandmarkReyhan/Views/PageView/PageView.swift", line: 9)
-        ZStack(alignment: .bottomTrailing) {
-            PageViewController(pages: pages, currentPage: $currentPage)
-            PageControl(numberOfPages: pages.count, currentPage: $currentPage)
-                .frame(width: CGFloat(pages.count * __designTimeInteger("#5780.[1].[2].property.[0].[0].arg[1].value.[1].modifier[0].arg[0].value.arg[0].value.[0]", fallback: 18)))
-                .padding(.trailing)
-        }
-        .aspectRatio(__designTimeInteger("#5780.[1].[2].property.[0].[0].modifier[0].arg[0].value.[0]", fallback: 3) / __designTimeInteger("#5780.[1].[2].property.[0].[0].modifier[0].arg[0].value.[1]", fallback: 2), contentMode: .fit)
-    
+    ZStack(alignment: .bottomTrailing) { // Stack elements with bottom-trailing alignment
+      PageViewController(pages: pages, currentPage: $currentPage) // Display PageViewController
+      PageControl(numberOfPages: pages.count, currentPage: $currentPage) // Display PageControl
+        .frame(width: CGFloat(pages.count * __designTimeInteger("#5780.[1].[2].property.[0].[0].arg[1].value.[1].modifier[0].arg[0].value.arg[0].value.[0]", fallback: 18))) // Set PageControl width based on page count
+        .padding(.trailing) // Add padding on the trailing edge
+
+    }
+    .aspectRatio(__designTimeInteger("#5780.[1].[2].property.[0].[0].modifier[0].arg[0].value.[0]", fallback: 3) / __designTimeInteger("#5780.[1].[2].property.[0].[0].modifier[0].arg[0].value.[1]", fallback: 2), contentMode: .fit) // Set aspect ratio and content mode
+  
 #sourceLocation()
     }
 }
