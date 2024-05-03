@@ -31,6 +31,42 @@ extension DeveloperToolsSupport.ColorResource {
 @available(iOS 17.0, macOS 14.0, tvOS 17.0, watchOS 10.0, *)
 extension DeveloperToolsSupport.ImageResource {
 
+    /// The "charleyrivers" asset catalog image resource.
+    static let charleyrivers = DeveloperToolsSupport.ImageResource(name: "charleyrivers", bundle: resourceBundle)
+
+    /// The "chilkoottrail" asset catalog image resource.
+    static let chilkoottrail = DeveloperToolsSupport.ImageResource(name: "chilkoottrail", bundle: resourceBundle)
+
+    /// The "chincoteague" asset catalog image resource.
+    static let chincoteague = DeveloperToolsSupport.ImageResource(name: "chincoteague", bundle: resourceBundle)
+
+    /// The "hiddenlake" asset catalog image resource.
+    static let hiddenlake = DeveloperToolsSupport.ImageResource(name: "hiddenlake", bundle: resourceBundle)
+
+    /// The "icybay" asset catalog image resource.
+    static let icybay = DeveloperToolsSupport.ImageResource(name: "icybay", bundle: resourceBundle)
+
+    /// The "lakemcdonald" asset catalog image resource.
+    static let lakemcdonald = DeveloperToolsSupport.ImageResource(name: "lakemcdonald", bundle: resourceBundle)
+
+    /// The "rainbowlake" asset catalog image resource.
+    static let rainbowlake = DeveloperToolsSupport.ImageResource(name: "rainbowlake", bundle: resourceBundle)
+
+    /// The "silversalmoncreek" asset catalog image resource.
+    static let silversalmoncreek = DeveloperToolsSupport.ImageResource(name: "silversalmoncreek", bundle: resourceBundle)
+
+    /// The "stmarylake" asset catalog image resource.
+    static let stmarylake = DeveloperToolsSupport.ImageResource(name: "stmarylake", bundle: resourceBundle)
+
+    /// The "turtlerock" asset catalog image resource.
+    static let turtlerock = DeveloperToolsSupport.ImageResource(name: "turtlerock", bundle: resourceBundle)
+
+    /// The "twinlake" asset catalog image resource.
+    static let twinlake = DeveloperToolsSupport.ImageResource(name: "twinlake", bundle: resourceBundle)
+
+    /// The "umbagog" asset catalog image resource.
+    static let umbagog = DeveloperToolsSupport.ImageResource(name: "umbagog", bundle: resourceBundle)
+
 }
 
 // MARK: - Color Symbol Extensions -
@@ -70,6 +106,114 @@ extension SwiftUI.ShapeStyle where Self == SwiftUI.Color {
 @available(macCatalyst, unavailable)
 extension AppKit.NSImage {
 
+    /// The "charleyrivers" asset catalog image.
+    static var charleyrivers: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .charleyrivers)
+#else
+        .init()
+#endif
+    }
+
+    /// The "chilkoottrail" asset catalog image.
+    static var chilkoottrail: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .chilkoottrail)
+#else
+        .init()
+#endif
+    }
+
+    /// The "chincoteague" asset catalog image.
+    static var chincoteague: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .chincoteague)
+#else
+        .init()
+#endif
+    }
+
+    /// The "hiddenlake" asset catalog image.
+    static var hiddenlake: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .hiddenlake)
+#else
+        .init()
+#endif
+    }
+
+    /// The "icybay" asset catalog image.
+    static var icybay: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .icybay)
+#else
+        .init()
+#endif
+    }
+
+    /// The "lakemcdonald" asset catalog image.
+    static var lakemcdonald: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .lakemcdonald)
+#else
+        .init()
+#endif
+    }
+
+    /// The "rainbowlake" asset catalog image.
+    static var rainbowlake: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .rainbowlake)
+#else
+        .init()
+#endif
+    }
+
+    /// The "silversalmoncreek" asset catalog image.
+    static var silversalmoncreek: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .silversalmoncreek)
+#else
+        .init()
+#endif
+    }
+
+    /// The "stmarylake" asset catalog image.
+    static var stmarylake: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .stmarylake)
+#else
+        .init()
+#endif
+    }
+
+    /// The "turtlerock" asset catalog image.
+    static var turtlerock: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .turtlerock)
+#else
+        .init()
+#endif
+    }
+
+    /// The "twinlake" asset catalog image.
+    static var twinlake: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .twinlake)
+#else
+        .init()
+#endif
+    }
+
+    /// The "umbagog" asset catalog image.
+    static var umbagog: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .umbagog)
+#else
+        .init()
+#endif
+    }
+
 }
 #endif
 
@@ -77,6 +221,114 @@ extension AppKit.NSImage {
 @available(iOS 17.0, tvOS 17.0, *)
 @available(watchOS, unavailable)
 extension UIKit.UIImage {
+
+    /// The "charleyrivers" asset catalog image.
+    static var charleyrivers: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .charleyrivers)
+#else
+        .init()
+#endif
+    }
+
+    /// The "chilkoottrail" asset catalog image.
+    static var chilkoottrail: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .chilkoottrail)
+#else
+        .init()
+#endif
+    }
+
+    /// The "chincoteague" asset catalog image.
+    static var chincoteague: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .chincoteague)
+#else
+        .init()
+#endif
+    }
+
+    /// The "hiddenlake" asset catalog image.
+    static var hiddenlake: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .hiddenlake)
+#else
+        .init()
+#endif
+    }
+
+    /// The "icybay" asset catalog image.
+    static var icybay: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .icybay)
+#else
+        .init()
+#endif
+    }
+
+    /// The "lakemcdonald" asset catalog image.
+    static var lakemcdonald: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .lakemcdonald)
+#else
+        .init()
+#endif
+    }
+
+    /// The "rainbowlake" asset catalog image.
+    static var rainbowlake: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .rainbowlake)
+#else
+        .init()
+#endif
+    }
+
+    /// The "silversalmoncreek" asset catalog image.
+    static var silversalmoncreek: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .silversalmoncreek)
+#else
+        .init()
+#endif
+    }
+
+    /// The "stmarylake" asset catalog image.
+    static var stmarylake: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .stmarylake)
+#else
+        .init()
+#endif
+    }
+
+    /// The "turtlerock" asset catalog image.
+    static var turtlerock: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .turtlerock)
+#else
+        .init()
+#endif
+    }
+
+    /// The "twinlake" asset catalog image.
+    static var twinlake: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .twinlake)
+#else
+        .init()
+#endif
+    }
+
+    /// The "umbagog" asset catalog image.
+    static var umbagog: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .umbagog)
+#else
+        .init()
+#endif
+    }
 
 }
 #endif
@@ -178,6 +430,26 @@ extension DeveloperToolsSupport.ImageResource {
     }
 
 }
+
+#if canImport(AppKit)
+@available(macOS 14.0, *)
+@available(macCatalyst, unavailable)
+extension AppKit.NSImage {
+
+    private convenience init?(thinnableResource: DeveloperToolsSupport.ImageResource?) {
+#if !targetEnvironment(macCatalyst)
+        if let resource = thinnableResource {
+            self.init(resource: resource)
+        } else {
+            return nil
+        }
+#else
+        return nil
+#endif
+    }
+
+}
+#endif
 
 #if canImport(UIKit)
 @available(iOS 17.0, tvOS 17.0, *)

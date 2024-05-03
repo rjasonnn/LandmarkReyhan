@@ -4,10 +4,9 @@
 <array>
 	<string>MapKit</string>
 	<string>SwiftUI</string>
-	<string>MacLandmarks</string>
 	<string>XCTest</string>
-	<string>CoreGraphics</string>
 	<string>UserNotifications</string>
+	<string>CoreGraphics</string>
 	<string>WatchKit</string>
 	<string>UIKit</string>
 	<string>CoreLocation</string>

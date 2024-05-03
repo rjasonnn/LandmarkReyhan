@@ -128,6 +128,67 @@
 			<key>uniqueIdentifier</key>
 			<string>0D5D9D5D-CAF0-483E-8F1F-DEBEC4F84F09</string>
 		</dict>
+		<key>1A677C80-D79E-403F-8729-83F0A844AFDE</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>0972D9A7-AA37-49D1-ABF8-69AB8145A72F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MacLandmarks-2024.05.03_10-02-11-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LandmarkReyhan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacLandmarks</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MacLandmarks</string>
+			<key>timeStartedRecording</key>
+			<real>736398131.06279397</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MacLandmarks</string>
+			<key>uniqueIdentifier</key>
+			<string>1A677C80-D79E-403F-8729-83F0A844AFDE</string>
+		</dict>
 		<key>1EE5CCD5-ADAC-4D8F-A6FB-56A949F2CB2B</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -371,6 +432,189 @@
 			<string>Run MacLandmarks</string>
 			<key>uniqueIdentifier</key>
 			<string>50950311-1F62-4C3B-A628-05F578F8C73D</string>
+		</dict>
+		<key>7A10FAF5-B0F1-4FD0-97A9-AD07D51A8C69</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C73626FA-48C4-4112-990F-37CDDC95FD3E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-2WatchLandmarks Watch App-2024.05.03_10-19-52-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LandmarkReyhan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>2WatchLandmarks Watch App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 2WatchLandmarks Watch App</string>
+			<key>timeStartedRecording</key>
+			<real>736399192.18116403</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run 2WatchLandmarks Watch App</string>
+			<key>uniqueIdentifier</key>
+			<string>7A10FAF5-B0F1-4FD0-97A9-AD07D51A8C69</string>
+		</dict>
+		<key>82ED8B03-ABE7-4459-BADA-99E0249A5FB8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E68E89AF-F564-48E6-93B5-756922513A0E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MacLandmarks-2024.05.03_10-15-21-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LandmarkReyhan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MacLandmarks</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MacLandmarks</string>
+			<key>timeStartedRecording</key>
+			<real>736398921.40872204</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MacLandmarks</string>
+			<key>uniqueIdentifier</key>
+			<string>82ED8B03-ABE7-4459-BADA-99E0249A5FB8</string>
+		</dict>
+		<key>92B9498E-1F36-429E-8B56-286FA98B7F91</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8574B970-8AE6-4839-B31F-8F2BA120C445</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-LandmarkReyhan-2024.05.03_10-05-52-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LandmarkReyhan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LandmarkReyhan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run LandmarkReyhan</string>
+			<key>timeStartedRecording</key>
+			<real>736398352.46676099</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run LandmarkReyhan</string>
+			<key>uniqueIdentifier</key>
+			<string>92B9498E-1F36-429E-8B56-286FA98B7F91</string>
 		</dict>
 		<key>9A2D9995-8C44-418C-9F3E-D080D67090A2</key>
 		<dict>
@@ -676,6 +920,67 @@
 			<string>Run MacLandmarks</string>
 			<key>uniqueIdentifier</key>
 			<string>D8DE9B9C-25D2-405F-A83B-22B43E077EDC</string>
+		</dict>
+		<key>DA12F8BD-0578-432F-991B-D602E1731447</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4BB4FA01-D5AB-4E29-83E7-7E4EF72F1830</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-LandmarkReyhan-2024.05.03_10-19-40-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LandmarkReyhan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LandmarkReyhan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run LandmarkReyhan</string>
+			<key>timeStartedRecording</key>
+			<real>736399180.47588003</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run LandmarkReyhan</string>
+			<key>uniqueIdentifier</key>
+			<string>DA12F8BD-0578-432F-991B-D602E1731447</string>
 		</dict>
 		<key>E7153E2F-3381-4994-BE60-D873977B2893</key>
 		<dict>

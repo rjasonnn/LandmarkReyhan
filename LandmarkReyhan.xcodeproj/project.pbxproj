@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		046AEF292BE48F8900A319BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9520BB52BDD634900D951CD /* Assets.xcassets */; };
 		04DFF7D22BE35A73008C528F /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9520BC52BDD634900D951CD /* CircleImage.swift */; };
 		04DFF7D32BE35A73008C528F /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9520BC72BDD634900D951CD /* MapView.swift */; };
 		04DFF7D42BE35A73008C528F /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9520BD02BDD634900D951CD /* LandmarkRow.swift */; };
@@ -515,6 +516,7 @@
 				04DFF8B72BE366D1008C528F /* landmarkData.json in Resources */,
 				04DFF8842BE364E0008C528F /* Preview Assets.xcassets in Resources */,
 				04DFF8B62BE365A9008C528F /* PushNotificationPayload.apns in Resources */,
+				046AEF292BE48F8900A319BC /* Assets.xcassets in Resources */,
 				04DFF8B82BE366D6008C528F /* hikeData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
